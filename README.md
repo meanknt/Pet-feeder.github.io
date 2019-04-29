@@ -18,6 +18,9 @@
 ## Code :memo:
 
 ## Author Profile :family:
-| Name | Student ID |  Github |
-| :-------- | :--------: | ---------: |
-|   ชื่อ   |   รหัส   |   git  |
+|  | Name | Student Id | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contact |
+| :-------- | :--------: | :--------: | :--------|
+| <img src="./images/profile/mean.jpg" width="150px" height="150px">|   นายคณิติน ผลงาม  |   61070340   | [<img src="./images/github.jpg" width="70px" height="45px">](https://github.com/meanknt) [<img src="./images/facebook.png" width="40px" height="45px">](https://web.facebook.com/mean.phongam)|
+|<img src="./images/profile/non.jpg" width="150px" height="150px"> | | |[<img src="./images/github.jpg" width="70px" height="45px">](https://github.com/Rektzie) [<img src="./images/facebook.png" width="40px" height="45px">](https://web.facebook.com/suchanon.wirotrat) |
+| <img src="./images/profile/mona.jpg" width="150px" height="150px">| | |[<img src="./images/github.jpg" width="70px" height="45px">](https://github.com/mona7315) [<img src="./images/facebook.png" width="40px" height="45px">](https://web.facebook.com/profile.php?id=100001450568807) |
+|<img src="./images/profile/numwan.jpg" width="150px" height="150px">| นางสาวธรรมรัตน์ หาญประสพ | 61070083 |[<img src="./images/github.jpg" width="70px" height="45px">](https://github.com/nw-thmr) [<img src="./images/facebook.png" width="40px" height="45px">](https://web.facebook.com/thmr.hps) |
