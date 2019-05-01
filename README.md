@@ -86,8 +86,7 @@ void pin_ISR() {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;delay(500);<br>
 }
 
-=======
->>>>>>> c17f698ab7095a8918683342c29c42c4c3d6a2f1
+
 ---
 
 ## Author Profile &nbsp;:family:
