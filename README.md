@@ -32,6 +32,7 @@
 
 * ภาพด้านหน้า
 <img src="./images/finish3.jpg" width="250px" height="200px">
+
 ---
 
 ## Author Profile &nbsp;:family:
