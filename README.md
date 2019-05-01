@@ -14,14 +14,24 @@
 | Breadboard 400 holes  | <img src="./images/board.jpg" width="250px" height="200px"> |
 | Jump Wire(Male to Female) | <img src="./images/1.jpg" width="250px" height="200px">  |
 | 2-color LED module 5MM | <img src="./images/2.jpg" width="250px" height="200px"> |
-| อุปกรณ์อื่นๆ| รูปตัวอย่าง |
-| -------- | -------- |
-| ไม้ฉลุ | |
-| กล่องเลย์ | |
+## อุปกรณ์อื่นๆ
+* ไม้ฉลุ
+* กล่องเลย์
+* เทปกาว
+
 
 ---
 ## หลักการทำงาน
+* เมื่อแมวเข้ามาใกล้ อาหารจะถูกปล่อยออกมา เมื่อแมวกำลังกินอยู่ ภายใน 3 วินาที เครื่องก็จะปล่อยเพิ่มออกมา เมื่อแมวออกจากsensorเครื่องก็จะหยุดทำงาน สามารถกดปุ่มเองได้เพื่อให้อาหารออกมา เมื่อเครื่องทำงานไฟ LED จะติด
+---
+## ภาพรวมงาน
+* ภาพด้านข้าง
 
+<img src="./images/finish.jpg" width="250px" height="200px"> <img src="./images/finish2.jpg" width="250px" height="200px">
+
+
+* ภาพด้านหน้า
+<img src="./images/finish3.jpg" width="250px" height="200px">
 ---
 
 ## Author Profile &nbsp;:family:
