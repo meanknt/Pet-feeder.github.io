@@ -36,7 +36,6 @@
 * ภาพด้านหน้า
 <img src="./images/finish3.jpg" width="250px" height="200px">
 
-<<<<<<< HEAD
 ## Code &nbsp; :mag_right:
 #include <Servo.h> <br>
 #define trigPin 7<br>
