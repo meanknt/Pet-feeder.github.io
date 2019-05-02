@@ -25,7 +25,10 @@
 
 
 ## หลักการทำงาน   &nbsp; :wrench:
-* เมื่อสัตว์เลี้ยงเข้ามาใกล้ อาหารจะถูกปล่อยออกมา เมื่อสัตว์เลี้ยงกำลังกินอยู่ ภายใน 3 วินาที เครื่องก็จะปล่อยเพิ่มออกมา เมื่อสัตว์เลี้ยงออกจากsensorเครื่องก็จะหยุดทำงาน สามารถกดปุ่มเองได้เพื่อให้อาหารออกมา เมื่อเครื่องทำงานไฟ LED จะติด
+* เมื่อแมวเข้ามาใกล้ อาหารจะถูกปล่อยออกมา เมื่อแมวกำลังกินอยู่ ภายใน 3 วินาที เครื่องก็จะปล่อยเพิ่มออกมา เมื่อแมวออกจากsensorเครื่องก็จะหยุดทำงาน สามารถกดปุ่มเองได้เพื่อให้อาหารออกมา เมื่อเครื่องทำงานไฟ LED จะติด<br>
+* วิดีโอตัวอย่าง<br>
+[<img src="./images/youtube.png" width="70px" height="50px">](https://www.youtube.com/watch?v=bx5hAygFqA4&feature=youtu.be&fbclid=IwAR3HOWr-X3RdLja1c2rMx0GL-1yKPRDYhgjulDQDJqFz1bjGkqxpdmEVTn0)
+
 
 ## ภาพรวมงาน &nbsp;:camera:
 * ภาพด้านข้าง
@@ -36,6 +39,7 @@
 * ภาพด้านหน้า
 <img src="./images/finish3.jpg" width="250px" height="200px">
 
+<<<<<<< HEAD
 ## Code &nbsp; :mag_right:
 #include <Servo.h> <br>
 #define trigPin 7<br>
@@ -86,8 +90,6 @@ void pin_ISR() {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;delay(500);<br>
 }
 
-
----
 
 ## Author Profile &nbsp;:family:
 |  | Name | Student ID | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contacts |
